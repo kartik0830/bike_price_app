@@ -81,7 +81,7 @@ Results are displayed instantly in the app
 
 ▶️ Run Locally
 # Clone the repository
-git clone https://github.com/your-username/bike-price-prediction.git
+git clone https://github.com/kartik0830/bike_price_app.git
 
 # Navigate to project folder
 cd bike-price-prediction
